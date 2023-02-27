@@ -1,6 +1,3 @@
-# ab_repos
-my fisrt repository on git hub
+# alx pre-course
 
-
-
-i am 6ft tall
+I'm now a ALX Student, this is my first repository as a full-stack engineer
